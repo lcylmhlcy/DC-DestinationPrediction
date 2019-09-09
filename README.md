@@ -4,7 +4,7 @@
 **[Auto Destination Intelligent Prediction Competition website](http://www.dcjingsai.com/common/cmpt/%E6%B1%BD%E8%BD%A6%E7%9B%AE%E7%9A%84%E5%9C%B0%E6%99%BA%E8%83%BD%E9%A2%84%E6%B5%8B%E5%A4%A7%E8%B5%9B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html)**  
 
 ## My ranking
-![img](https://github.com/lcylmhlcy/lcylmhlcy.github.io/raw/master/img/dc.png)  
+![img](https://github.com/lcylmhlcy/DC-DestinationPrediction/raw/master/img/dc.png)  
   
 **refer to [website](http://www.dcjingsai.com/common/cmpt/%E6%B1%BD%E8%BD%A6%E7%9B%AE%E7%9A%84%E5%9C%B0%E6%99%BA%E8%83%BD%E9%A2%84%E6%B5%8B%E5%A4%A7%E8%B5%9B_%E6%8E%92%E8%A1%8C%E6%A6%9C.html)**
 
